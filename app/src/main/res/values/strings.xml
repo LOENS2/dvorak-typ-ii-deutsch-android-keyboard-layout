@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Dvorak KeyboardLayout</string>
-    <string name="keyboard_layout_de_dvorak_type_2_label">German (Dvorak Typ 2)</string>
+    <string name="keyboard_layout_de_dvorak_type_2_label">Deutsch (Dvorak Typ 2)</string>
 </resources>
