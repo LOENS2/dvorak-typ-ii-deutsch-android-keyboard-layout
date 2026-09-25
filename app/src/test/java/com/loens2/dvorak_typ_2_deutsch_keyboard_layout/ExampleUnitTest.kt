@@ -1,4 +1,4 @@
-package com.loens2.dvorak_keyboard_layout
+package com.loens2.dvorak_typ_2_deutsch_keyboard_layout
 
 import org.junit.Test
 

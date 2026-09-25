@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.loens2.dvorak_keyboard_layout"
+    namespace = "com.loens2.dvorak_typ_2_deutsch_keyboard_layout"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.loens2.dvorak_keyboard_layout"
+        applicationId = "com.loens2.dvorak_typ_2_deutsch_keyboard_layout"
         minSdk = 36
         targetSdk = 36
         versionCode = 1
