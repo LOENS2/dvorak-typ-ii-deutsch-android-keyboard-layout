@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Dvorak KeyboardLayout"
+rootProject.name = "Dvorak Keyboard Layout"
 include(":app")
  
